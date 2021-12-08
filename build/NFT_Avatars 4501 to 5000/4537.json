@@ -1,0 +1,39 @@
+{
+  "name": "HashTiki #4537",
+  "description": "HashTiki represents the inheritance of a totem culture. It will be promoted and disseminated in the Solana ecology by means of encrypted NFT. The first NFTs library that is based on the Hashboom open source to empower the Metaverse ecology. Know more about HashTiki: https://github.com/hashbomb/hashTiki",
+  "image": "https://github.com/hashbomb/hashTiki/4537.png",
+  "dna": "1718c04c60a1278a07fd288b6469f61e443d67d4",
+  "edition": 4537,
+  "date": 1638849802484,
+  "attributes": [
+    {
+      "trait_type": "head",
+      "value": "headDeepSkyBlue1"
+    },
+    {
+      "trait_type": "face",
+      "value": "square"
+    },
+    {
+      "trait_type": "tatoohead",
+      "value": "starph4DeepSkyBlue"
+    },
+    {
+      "trait_type": "tatooface",
+      "value": "fly0902"
+    },
+    {
+      "trait_type": "eye",
+      "value": "eyeButter9"
+    },
+    {
+      "trait_type": "nose",
+      "value": "noseLawnGreen2"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "mouthButter9"
+    }
+  ],
+  "compiler": "HashBomb-Tiki"
+}

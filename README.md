@@ -1,6 +1,8 @@
 ## Welcome to HashTiki 💣💣💣
 
-![tiki](https://github.com/hashbomb/hashTiki/blob/main/example%20images/banner.png)
+
+
+![awesome tiki](https://github.com/hashbomb/Hashtiki/blob/main/example%20images/hashtiki_200.gif)
 
 
 
@@ -47,6 +49,16 @@ Generated through a random algorithm, these `8000`  unique Tikis have `7` types 
 🎮 Metaverse Game Factory
 
 
+
+# Part of the show 
+
+
+
+![tiki](https://github.com/hashbomb/hashTiki/blob/main/example%20images/banner.png)
+
+
+
+View 8000 Tiki: https://github.com/hashbomb/Hashtiki/blob/main/8000%20Tiki.jpg 
 
 # Question:
 

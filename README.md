@@ -10,6 +10,10 @@ A Premium NFT Collection on the OEC built for the Metaverse.
 
 
 
+Build file resource (img and metadata) are stored on IPFS: https://ipfs.io/ipfs/QmWg6RTMe9u2hy321KSzPBJ8ejYii75Gxkypdi26QEo9E2
+
+
+
 **HashTiki** is the first NFT portfolio that empowers the metaverse ecology. HashTiki consists of **8000** unique totem collections, whose ownership is stored on the OEC blockchain network, and it is promoted and disseminated in the way of encrypted NFT.
 
 
@@ -60,6 +64,8 @@ Generated through a random algorithm, these `8000`  unique Tikis have `7` types 
 
 View 8000 Tiki: https://github.com/hashbomb/Hashtiki/blob/main/8000%20Tiki.jpg 
 
+
+
 # Question:
 
 - How much does a Tiki cost?
@@ -88,7 +94,7 @@ View 8000 Tiki: https://github.com/hashbomb/Hashtiki/blob/main/8000%20Tiki.jpg
 
 - HashTiki mint on where？
 
-  We currently mint Tikis on the OEC (ARweave).
+  We currently mint Tikis on the OEC.
 
 
 

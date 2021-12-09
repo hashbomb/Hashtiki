@@ -312,7 +312,7 @@ Totems represent the medium of communication and interaction with gods. Totems c
 
 ### TIKI
 
-<img src=https://github.com/hashbomb/hashTiki/blob/main/11%20leaders/1071tiki.png  width=10% />
+<img src=https://github.com/hashbomb/hashTiki/blob/main/11%20tiki%20leaders/1071tiki.png  width=10% />
 
 King of Gods
 
@@ -324,7 +324,7 @@ Tag: The king of the gods who endows divinity, the medium linking humans and god
 
 ### Kane
 
-<img src=https://github.com/hashbomb/hashTiki/blob/main/11%20leaders/1816Kane.png  width=10% />
+<img src=https://github.com/hashbomb/hashTiki/blob/main/11%20tiki%20leaders/1816Kane.png  width=10% />
 
 God of the Sun
 
@@ -335,7 +335,7 @@ Tag: The source of kindness, justice, and positive energy, the ancestor god nour
 
 ### Ku
 
-<img src=https://github.com/hashbomb/hashTiki/blob/main/11%20leaders/2303Ku.png  width=10% />
+<img src=https://github.com/hashbomb/hashTiki/blob/main/11%20tiki%20leaders/2303Ku.png  width=10% />
 
 God of War
 
@@ -350,7 +350,7 @@ Tag: The ugly, cruel irritable God of War is also a guardian god against foreign
 
 ### Lono
 
-<img src=https://github.com/hashbomb/hashTiki/blob/main/11%20leaders/578Lono.png  width=10% />
+<img src=https://github.com/hashbomb/hashTiki/blob/main/11%20tiki%20leaders/578Lono.png  width=10% />
 
 God of Peace, Wind, Rain, and Motion. 
 
@@ -363,7 +363,7 @@ Tag: God of wind and rain, full of adventurous spirit and courage, also nourishi
 
 ### Pele
 
-<img src=https://github.com/hashbomb/hashTiki/blob/main/11%20leaders/6811Pele.png  width=10% />
+<img src=https://github.com/hashbomb/hashTiki/blob/main/11%20tiki%20leaders/6811Pele.png  width=10% />
 
 Goddess of Volcano
 
@@ -375,7 +375,7 @@ Tag: While unrestrained and irritable, the volcano goddess symbolizes passion an
 
 ### Hina
 
-<img src=https://github.com/hashbomb/hashTiki/blob/main/11%20leaders/4489Hina.png  width=10% />
+<img src=https://github.com/hashbomb/hashTiki/blob/main/11%20tiki%20leaders/4489Hina.png  width=10% />
 
 Goddess of the Moon, in charge of women's work
 
@@ -387,7 +387,7 @@ Tag: A mysterious guide who illuminate the night road for travelers
 
 ### Laka
 
-<img src=https://github.com/hashbomb/hashTiki/blob/main/11%20leaders/6366Laka.png  width=10% />
+<img src=https://github.com/hashbomb/hashTiki/blob/main/11%20tiki%20leaders/6366Laka.png  width=10% />
 
 Hula Goddess
 
@@ -400,7 +400,7 @@ Tag: Lono's wife, symbolizing the goddess of dancing. She's beautiful, bright, a
 
 ### Kuula
 
-<img src=https://github.com/hashbomb/hashTiki/blob/main/11%20leaders/7675Kuula.png  width=10% />
+<img src=https://github.com/hashbomb/hashTiki/blob/main/11%20tiki%20leaders/7675Kuula.png  width=10% />
 
 God of Fishermen
 
@@ -413,7 +413,7 @@ Tag: The God of Fisherman is also the god of labor, with the qualities of dilige
 
 ### Papa
 
-<img src=https://github.com/hashbomb/hashTiki/blob/main/11%20leaders/2471Papa.png  width=10% />
+<img src=https://github.com/hashbomb/hashTiki/blob/main/11%20tiki%20leaders/2471Papa.png  width=10% />
 
 Goddness of Land& the Earth
 
@@ -425,7 +425,7 @@ Tag: The goddess of the earth breeds all things and is the mother of most gods.
 
 ### Kanaloa
 
-<img src=https://github.com/hashbomb/hashTiki/blob/main/11%20leaders/5716Kanaloa.png  width=10% />
+<img src=https://github.com/hashbomb/hashTiki/blob/main/11%20tiki%20leaders/5716Kanaloa.png  width=10% />
 
 God of Sea, Travelers, and Death
 
@@ -438,7 +438,7 @@ Tag: The protector of travelers, but also the god of death, being calm, mysterio
 
 ### Poliahu
 
-<img src=https://github.com/hashbomb/hashTiki/blob/main/11%20leaders/5325Poliahu.png  width=10% />
+<img src=https://github.com/hashbomb/hashTiki/blob/main/11%20tiki%20leaders/5325Poliahu.png  width=10% />
 
 Goddess of Snow
 

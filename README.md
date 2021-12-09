@@ -415,7 +415,7 @@ Tag: The God of Fisherman is also the god of labor, with the qualities of dilige
 
 <img src=https://github.com/hashbomb/hashTiki/blob/main/11%20tiki%20leaders/2471Papa.png  width=10% />
 
-Goddness of Land& the Earth
+Goddness of Land &  Earth
 
 Tag: The goddess of the earth breeds all things and is the mother of most gods.
 

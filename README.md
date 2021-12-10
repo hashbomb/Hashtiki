@@ -6,7 +6,7 @@
 
 
 
-A Premium NFT Collection on the OEC built for the Metaverse.
+A Premium NFT Collection on the OEC(OKEX Chain) built for the Metaverse.
 
 
 

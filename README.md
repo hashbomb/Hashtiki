@@ -48,7 +48,7 @@ Generated through a random algorithm, these `8000`  unique Tikis have `7` types 
 
 😃 Entertainment, innovation, openness
 
-⛏ Mining your first NFT asset
+⛏ Mint your first NFT asset
 
 🎮 Metaverse Game Factory
 

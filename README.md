@@ -62,7 +62,7 @@ Generated through a random algorithm, these `8000`  unique Tikis have `7` types 
 
 
 
-View 8000 Tiki: https://github.com/hashbomb/Hashtiki/blob/main/8000%20Tiki.jpg 
+View 8000 Tiki: https://github.com/hashbomb/Hashtiki/blob/main/8000-Tiki.jpg
 
 
 

@@ -128,7 +128,7 @@ Social network: https://twitter.com/hashtiki
 
 # Rarity Design：
 
-HashTiki has seven features, including `head` `face` `tatoohead` `tatooface` `eye` `nose` `mouth`，and 221 elements. Generated through a random combination algorithm, it consists of 8000 NFT assets with different attributes, among which we will select a few leaders by color and texture.
+HashTiki has seven features, including `head` `face` `tatoohead` `tatooface` `eye` `nose` `mouth`，and 221 elements. Generated through a random combination algorithm, it consists of 8000 NFT assets with different attributes, among which we will select a few leaders by `color` and `texture`.
 
 
 
@@ -266,9 +266,9 @@ The elements classified by **color** are:
 
 
 
-- Form rarity
+- Texture rarity
 
-The elements classified by **Form** are:
+The elements classified by **texture** are:
 
 | Face        | Quantity | Proportion |
 | ----------- | -------- | ---------- |

@@ -6,7 +6,7 @@
 
 
 
-A Premium NFT Collection on the OEC(OKEX Chain) built for the Metaverse.
+> A Premium NFT Collection on the OEC (OKEX Chain) built for the Metaverse.
 
 
 
@@ -130,39 +130,19 @@ Social network: https://twitter.com/hashtiki
 
 HashTiki has seven features, including `head` `face` `tatoohead` `tatooface` `eye` `nose` `mouth`，and 221 elements. Generated through a random combination algorithm, it consists of 8000 NFT assets with different attributes, among which we will select a few leaders by different `colors` .
 
+### 5 categories of rarity
 
-
-### Five categories of rarity
-
-
-
-**N** - normal 
-
-
-
-**R** - rare
-
-
-
-**E** - epic
+|       |        | Quantity |
+| ----- | ------ | -------- |
+| **N** | Normal | 5567     |
+| **R** | Rare   | 1616     |
+| **E** | Epic   | 679      |
+| **L** | Legend | 127      |
+| **G** | God    | 11       |
 
 
 
-**L** - legend
-
-
-
-**G** - God
-
-
-
-🗃 Get more details about  "HashTiki Parity" excel file to: 
-
-https://1drv.ms/x/s!AtQPxZLcPNCYabJ0qRAtXF2g5yo?e=9eg0m0
-
-
-
-7 Features of HashTiki：
+### 7 features of HashTiki
 
 | Attributes | Quantity |
 | ---------- | -------- |
@@ -230,9 +210,13 @@ check out `1.jason`
 
 ## Color Parity Value
 
+
+
 Orange > Blue > Green > Pink > Gray > Red > Colorful
 
-稀有度通过颜色进行划分，例如：orange属于最
+
+
+> Rarity is divided by **color**. For example, the greater the value of `orange`, the greater the probability of occurrence. Conversely, the smaller the value is, the smaller the probability and the higher the rarity is.
 
 
 

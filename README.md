@@ -128,15 +128,21 @@ Social network: https://twitter.com/hashtiki
 
 # Rarity Design：
 
-HashTiki has seven features, including `head` `face` `tatoohead` `tatooface` `eye` `nose` `mouth`，and 221 elements. Generated through a random combination algorithm, it consists of 8000 NFT assets with different attributes, among which we will select a few leaders by `color` and `texture`.
+HashTiki has seven features, including `head` `face` `tatoohead` `tatooface` `eye` `nose` `mouth`，and 221 elements. Generated through a random combination algorithm, it consists of 8000 NFT assets with different attributes, among which we will select a few leaders by different `colors` .
+
+### Five categories of rarity
+
+**N** - normal 
+**R** - rare
+**E** - epic
+**L** - legend
+**UR** - Ultra rare
 
 
 
 🗃 Get more details about  "HashTiki Parity" excel file to: 
 
-
-
-https://1drv.ms/x/s!AtQPxZLcPNCYabJ0qRAtXF2g5yo?e=rFn0tv
+https://1drv.ms/x/s!AtQPxZLcPNCYabJ0qRAtXF2g5yo?e=mh71W6
 
 
 
@@ -206,19 +212,13 @@ check out `1.jason`
 
 
 
-## **Parity Value**
+## Color Parity Value
 
-- Color Parity
+Orange > Blue > Green > Pink > Gray > Red > Colorful
 
-  
-
-  Butter > DeepSkyBlue > LawnGreen > Cora > Multicolor > Crimson > Special
+稀有度通过颜色进行划分，例如：orange属于最
 
 
-
-More details about  "HashTiki Parity" excel file to: 
-
-https://1drv.ms/x/s!AtQPxZLcPNCYabJ0qRAtXF2g5yo?e=rFn0tv
 
 
 

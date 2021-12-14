@@ -167,14 +167,14 @@ https://1drv.ms/x/s!AtQPxZLcPNCYabJ0qRAtXF2g5yo?e=mh71W6
 | Attributes | Quantity |
 | ---------- | -------- |
 | Face       | 4        |
-| TatooHead  | 18       |
-| TatooFace  | 45       |
-| Head       | 30       |
-| Eye        | 50       |
-| Nose       | 41       |
-| Mouth      | 33       |
+| TatooHead  | 19       |
+| TatooFace  | 42       |
+| Head       | 42       |
+| Eye        | 57       |
+| Nose       | 48       |
+| Mouth      | 58       |
 
-🎨 Elements of Tikis: 221
+🎨 Elements of Tikis:  **270**
 
 
 

@@ -158,7 +158,7 @@ HashTiki has seven features, including `head` `face` `tatoohead` `tatooface` `ey
 
 🗃 Get more details about  "HashTiki Parity" excel file to: 
 
-https://1drv.ms/x/s!AtQPxZLcPNCYabJ0qRAtXF2g5yo?e=mh71W6
+https://1drv.ms/x/s!AtQPxZLcPNCYabJ0qRAtXF2g5yo?e=9eg0m0
 
 
 

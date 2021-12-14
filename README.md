@@ -220,6 +220,10 @@ Orange > Blue > Green > Pink > Gray > Red > Colorful
 
 
 
+🗃 Get more details about "HashTiki Parity" excel file to:
+
+https://1drv.ms/x/s!AtQPxZLcPNCYabJ0qRAtXF2g5yo?e=uNJIei
+
 
 
 The elements classified by **color** are: 

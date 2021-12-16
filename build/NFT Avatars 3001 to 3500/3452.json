@@ -1,14 +1,14 @@
 {
   "name": "HashTiki #3452",
-  "description": "HashTiki represents the inheritance of a totem culture. It will be promoted and disseminated in the Solana ecology by means of encrypted NFT. The first NFTs library that is based on the Hashboom open source to empower the Metaverse ecology. Know more about HashTiki: https://github.com/hashbomb/hashTiki",
-  "image": "https://github.com/hashbomb/hashTiki/3452.png",
-  "dna": "b801898b63e1dd8f89f7ca7320feb58aef751669",
+  "description": "HashTiki is the first NFT portfolio that empowers the metaverse ecology. HashTiki consists of 8000 unique totem collections, whose ownership is stored on the IPFS, and it is promoted and disseminated in the way of encrypted NFT.",
+  "image": "https://github.com/hashbomb/Hashtiki/3452.png",
+  "dna": "92780124f798f3eb47c30ba793e26b9a00c6de82",
   "edition": 3452,
-  "date": 1638849739262,
+  "date": 1639556701961,
   "attributes": [
     {
       "trait_type": "head",
-      "value": "headCora3"
+      "value": "headOrange3"
     },
     {
       "trait_type": "face",
@@ -16,23 +16,23 @@
     },
     {
       "trait_type": "tatoohead",
-      "value": "sharpph3color1"
+      "value": "PinkWood"
     },
     {
       "trait_type": "tatooface",
-      "value": "dust0202"
+      "value": "GreenTar2"
     },
     {
       "trait_type": "eye",
-      "value": "eyeButter20"
+      "value": "eyeGreen16"
     },
     {
       "trait_type": "nose",
-      "value": "noseButter9"
+      "value": "noseOrange13"
     },
     {
       "trait_type": "mouth",
-      "value": "mouthLawnGreen2"
+      "value": "mouthOrange5"
     }
   ],
   "compiler": "HashBomb-Tiki"

@@ -10,7 +10,7 @@
 
 
 
-Build file resource (img and metadata) are stored on IPFS: https://ipfs.io/ipfs/QmWg6RTMe9u2hy321KSzPBJ8ejYii75Gxkypdi26QEo9E2
+Source files (img and metadata) are stored on IPFS: https://ipfs.io/ipfs/QmXekyvD9nWhC9JV4nrQozoz8fshTYdGFpk8cnWotueE8Y
 
 
 
@@ -165,39 +165,39 @@ check out `1.jason`
 ```
 {
   "name": "HashTiki #1",
-  "description": "HashTiki represents the inheritance of a totem culture. It will be promoted and disseminated in the OEC ecology by means of encrypted NFT. The first NFTs library that is based on the Hashboom open source to empower the Metaverse ecology. Know more about HashTiki: https://github.com/hashbomb/hashTiki",
-  "image": "https://github.com/hashbomb/hashTiki/1.png",
-  "dna": "9cb4aac4b04f22236a5c8bf5239e86f1fabfaf48",
+  "description": "HashTiki is the first NFT portfolio that empowers the metaverse ecology. HashTiki consists of 8000 unique totem collections, whose ownership is stored on the IPFS, and it is promoted and disseminated in the way of encrypted NFT.",
+  "image": "https://github.com/hashbomb/Hashtiki/1.png",
+  "dna": "2eed1e5d3205ab9106ee41b6fd0b2673ae8ac825",
   "edition": 1,
-  "date": 1638617370505,
+  "date": 1639556572107,
   "attributes": [
     {
       "trait_type": "head",
-      "value": "headmulticolor5"
+      "value": "headGreen5"
     },
     {
       "trait_type": "face",
-      "value": "trapezoidal"
+      "value": "oval"
     },
     {
       "trait_type": "tatoohead",
-      "value": "woodph1Butter"
+      "value": "BlueStar"
     },
     {
       "trait_type": "tatooface",
-      "value": "dingo0602"
+      "value": "BlueFly1"
     },
     {
       "trait_type": "eye",
-      "value": "eyeLawnGreen7"
+      "value": "eyeGreen20"
     },
     {
       "trait_type": "nose",
-      "value": "noseButter5"
+      "value": "noseOrange17"
     },
     {
       "trait_type": "mouth",
-      "value": "mouthLawnGreen6"
+      "value": "mouthBlue7"
     }
   ],
   "compiler": "HashBomb-Tiki"
@@ -347,7 +347,7 @@ Tag: The source of kindness, justice, and positive energy, the ancestor god nour
 
 ### Ku
 
-<img src=https://github.com/hashbomb/Hashtiki/blob/main/11%20god/2875.png  width=10% />
+<img src=https://github.com/hashbomb/Hashtiki/blob/main/11%20god/2857.png  width=10% />
 
 God of War
 
@@ -399,7 +399,7 @@ Tag: A mysterious guide who illuminate the night road for travelers
 
 ### Laka
 
-<img src=https://github.com/hashbomb/Hashtiki/blob/main/11%20god/3117.png.png  width=10% />
+<img src=https://github.com/hashbomb/Hashtiki/blob/main/11%20god/3117.png  width=10% />
 
 Hula Goddess
 

@@ -18,13 +18,13 @@ Build file resource (img and metadata) are stored on IPFS: https://ipfs.io/ipfs/
 
 
 
-HashTiki represents the inheritance of a totem culture. It will be promoted and disseminated in the OEC ecology through encrypted NFT. The first NFTs library uses the Hashboom open source to empower the Metaverse ecology. 
+HashTiki represents the inheritance of a totem culture.The first NFTs library uses the Hashboom open source to empower the Metaverse ecology. 
 
 
 
-Know more about HashTiki ：
+Know more：
 
-[![Custom badge](https://img.shields.io/badge/web-hashtiki-brightgreen)]()
+[![Custom badge](https://img.shields.io/badge/web-hashtiki-brightgreen)](hashtiki.com)
 
 [![Twitter](https://img.shields.io/badge/Twitter-%40hashtiki-05b1ea)](https://twitter.com/hashtiki)
 
@@ -34,13 +34,13 @@ Know more about HashTiki ：
 
 
 
-Generated through a random algorithm, these `8000`  unique Tikis have `7` types of features and `221` different attributes, among which 11 exceptional leaders are determined based on their rare value. 
+Generated through a random algorithm, these `8000`  unique Tikis have `7` types of features and `270` different attributes, among which 11 exceptional gods (with name) are determined based on their rare value. 
 
 
 
 #️⃣ 7 types of features
 
-👏 221 different attributes
+👏 270 different attributes
 
 💪 11 exceptional leaders
 
@@ -51,6 +51,20 @@ Generated through a random algorithm, these `8000`  unique Tikis have `7` types 
 ⛏ Mint your first NFT asset
 
 🎮 Metaverse Game Factory
+
+
+
+# Five different level and quality
+
+| Level | Quality | Total |
+| ---------- | -------- |-------- |
+| **N** | Normal | 6394 |
+| **R** | Rare   | 1204     |
+| **E** | Epic   | 231      |
+| **L** | Legend | 160      |
+| **G** | God    | 11       |
+
+
 
 
 
@@ -123,18 +137,7 @@ HashTiki is a collection of NFTs with fun concepts, innovative culture, and open
 
 # Rarity Design：
 
-HashTiki has seven features, including `head` `face` `tatoohead` `tatooface` `eye` `nose` `mouth`，and 221 elements. Generated through a random combination algorithm, it consists of 8000 NFT assets with different attributes, among which we will select a few leaders by different `colors` .
-
-### 5 categories of rarity
-
-|       |        | Quantity |
-| ----- | ------ | -------- |
-| **N** | Normal | 5567     |
-| **R** | Rare   | 1616     |
-| **E** | Epic   | 679      |
-| **L** | Legend | 127      |
-| **G** | God    | 11       |
-
+HashTiki has seven features, including `head` `face` `tatoohead` `tatooface` `eye` `nose` `mouth`，and **270** elements. Generated through a random combination algorithm, it consists of 8000 NFT assets with different attributes, among which we will select a few leaders by different `colors` .
 
 
 ### 7 features of HashTiki

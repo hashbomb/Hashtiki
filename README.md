@@ -216,7 +216,8 @@ Orange > Blue > Green > Pink > Gray > Red > Colorful
 
 
 
-> Rarity is divided by **color**. For example, the greater the value of `orange`, the greater the probability of occurrence. Conversely, the smaller the value is, the smaller the probability and the higher the rarity is.
+> **Rarity is indicated by color. **
+> Orange is the most common color among HashTikis; therefore, the greater the value of orange, the greater the probability of occurrence. Conversely, the smaller the value, the smaller the probability and the higher rarity.  
 
 
 

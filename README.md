@@ -38,11 +38,11 @@ Generated through a random algorithm, these `8000`  unique Tikis have `7` types 
 
 
 
-#️⃣ 7 types of features
+#️⃣ 7 parts
 
-👏 270 different attributes
+👏 270 attributes
 
-✨ 5 level and quality
+✨ 5 types
 
 💪 11 exceptional gods
 
@@ -56,7 +56,7 @@ Generated through a random algorithm, these `8000`  unique Tikis have `7` types 
 
 
 
-# Five different level and quality
+# Five types
 
 | Level | Quality | Total |
 | ---------- | -------- |-------- |
@@ -142,7 +142,7 @@ HashTiki is a collection of NFTs with fun concepts, innovative culture, and open
 HashTiki has seven features, including `head` `face` `tatoohead` `tatooface` `eye` `nose` `mouth`，and **270** elements. Generated through a random combination algorithm, it consists of 8000 NFT assets with different attributes, among which we will select a few leaders by different `colors` .
 
 
-### 7 features of HashTiki
+### 7 parts of hashtiki
 
 | Attributes | Quantity |
 | ---------- | -------- |
@@ -154,7 +154,7 @@ HashTiki has seven features, including `head` `face` `tatoohead` `tatooface` `ey
 | Nose       | 48       |
 | Mouth      | 58       |
 
-🎨 Elements of Tikis:  **270**
+🎨 Part of Tikis:  **270**
 
 
 
@@ -216,8 +216,7 @@ Orange > Blue > Green > Pink > Gray > Red > Colorful
 
 
 
-> **Rarity is indicated by color. **
-> Orange is the most common color among HashTikis; therefore, the greater the value of orange, the greater the probability of occurrence. Conversely, the smaller the value, the smaller the probability and the higher rarity.  
+> Rarity is indicated by color. Orange is the most common color among HashTikis; therefore, the greater the value of orange, the greater the probability of occurrence. Conversely, the smaller the value, the smaller the probability and the higher rarity.  
 
 
 
@@ -227,7 +226,7 @@ https://1drv.ms/x/s!AtQPxZLcPNCYabJ0qRAtXF2g5yo?e=uNJIei
 
 
 
-The elements classified by **color** are: 
+Each part classified by **color** : 
 
 
 

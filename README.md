@@ -14,7 +14,7 @@ Source files (metadata) are stored on [IPFS](https://ipfs.io/ipfs/QmXekyvD9nWhC9
 
 
 
-**HashTiki** is the first NFT portfolio that empowers the metaverse ecology. HashTiki consists of **[8000]**(https://github.com/hashbomb/Hashtiki/blob/main/8000-Tiki.jpg) unique totem collections, whose ownership is stored on the OEC blockchain network, and it is promoted and disseminated in the way of encrypted NFT.
+**HashTiki** is the first NFT portfolio that empowers the metaverse ecology. HashTiki consists of [8000](https://github.com/hashbomb/Hashtiki/blob/main/8000-Tiki.jpg) unique totem collections, whose ownership is stored on the OEC blockchain network, and it is promoted and disseminated in the way of encrypted NFT.
 
 
 
@@ -78,7 +78,7 @@ Generated through a random algorithm, these `8000`  unique Tikis have `7` types 
 
 
 
-View 8000 Tiki: https://github.com/hashbomb/Hashtiki/blob/main/8000-Tiki.jpg
+View **8000** Tiki: https://github.com/hashbomb/Hashtiki/blob/main/8000-Tiki.jpg
 
 
 

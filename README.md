@@ -311,7 +311,7 @@ The elements classified by **color** are:
 
 
 
-# About Us 
+# About
 
 HASHTIKI is an NFT collection created and stored based on the OEC. It includes three series (God, Ghost, Demon).
 

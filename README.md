@@ -98,7 +98,7 @@ View **8000** Tiki: https://github.com/hashbomb/Hashtiki/blob/main/8000-Tiki.jpg
 
 - How many gods are there in total? 
 
-  11, by the 7 class rarity.
+  11, by rarity.
 
   
 
@@ -139,7 +139,7 @@ HashTiki is a collection of NFTs with fun concepts, innovative culture, and open
 
 # Rarity Design：
 
-HashTiki has seven features, including `head` `face` `tatoohead` `tatooface` `eye` `nose` `mouth`，and **270** elements. Generated through a random combination algorithm, it consists of 8000 NFT assets with different attributes, among which we will select a few leaders by different `colors` .
+HashTiki has seven features, including `head` `face` `tatoohead` `tatooface` `eye` `nose` `mouth`，and **270** elements. Generated through a random combination algorithm, it consists of 8000 NFT assets with different attributes, among which we will select a few gods by different `colors` .
 
 
 ### 7 parts of hashtiki

@@ -44,7 +44,7 @@ Generated through a random algorithm, these `8000`  unique Tikis have `7` types 
 
 ✨ 5 level and quality
 
-💪 11 exceptional leaders
+💪 11 exceptional gods
 
 💖 8000 unique Tiki Assets
 
@@ -64,7 +64,7 @@ Generated through a random algorithm, these `8000`  unique Tikis have `7` types 
 | **R** | Rare   | 1204     |
 | **E** | Epic   | 231      |
 | **L** | Legend | 160      |
-| **G** | God    | 11       |
+| **G** | Gods   | 11       |
 
 
 

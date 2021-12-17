@@ -10,7 +10,7 @@
 
 
 
-Source files (img and metadata) are stored on [IPFS](https://ipfs.io/ipfs/QmXekyvD9nWhC9JV4nrQozoz8fshTYdGFpk8cnWotueE8Y)
+Source files (metadata) are stored on [IPFS](https://ipfs.io/ipfs/QmXekyvD9nWhC9JV4nrQozoz8fshTYdGFpk8cnWotueE8Y)
 
 
 
@@ -41,6 +41,8 @@ Generated through a random algorithm, these `8000`  unique Tikis have `7` types 
 #️⃣ 7 types of features
 
 👏 270 different attributes
+
+✨ 5 level and quality
 
 💪 11 exceptional leaders
 

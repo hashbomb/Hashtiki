@@ -70,7 +70,7 @@ Generated through a random algorithm, these `8000`  unique Tikis have `7` types 
 
 
 
-# Part of the show 
+# A part of show 
 
 
 

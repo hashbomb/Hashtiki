@@ -24,7 +24,7 @@ HashTiki represents the inheritance of a totem culture.The first NFTs library us
 
 Know more：
 
-[![Custom badge](https://img.shields.io/badge/web-hashtiki-brightgreen)](hashtiki.com)
+[![Custom badge](https://img.shields.io/badge/web-hashtiki-brightgreen)](www.hashtiki.com)
 
 [![Twitter](https://img.shields.io/badge/Twitter-%40hashtiki-05b1ea)](https://twitter.com/hashtiki)
 

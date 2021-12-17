@@ -330,6 +330,8 @@ King of Gods
 
 Tag: The king of the gods who endows divinity, the medium linking humans and gods
 
+
+
 "Gods, land, animals, and humans. All beings will live in peace together!"
 
 
@@ -342,8 +344,12 @@ God of the Sun
 
 Tag: The source of kindness, justice, and positive energy, the ancestor god nourishes all life.
 
+
+
 "Even a blade of grass can burst into tenacious vitality."
 "Wherever the sun goes, everything is endless."
+
+
 
 ### Ku
 
@@ -352,6 +358,8 @@ Tag: The source of kindness, justice, and positive energy, the ancestor god nour
 God of War
 
 Tag: The ugly, cruel irritable God of War is also a guardian god against foreign enemies
+
+
 
 "Fight, battle, and war are the only choice for progress."
 "Where there is no resistance, there is no survival!"
@@ -368,6 +376,8 @@ God of Peace, Wind, Rain, and Motion.
 
 Tag: God of wind and rain, full of adventurous spirit and courage, also nourishing all things. 
 
+
+
 "Don't be stunned, mortal; many interesting things are waiting for us to chase."
 "The wind is unrestrained; the rain is pattering! I am the embodiment of wind and rain!"
 
@@ -381,6 +391,8 @@ Goddess of Volcano
 
 Tag: While unrestrained and irritable, the volcano goddess symbolizes passion and beauty. 
 
+
+
 "Feel the passion of Pentium!"
 "The flame purifies everything!"
 
@@ -393,6 +405,8 @@ Goddess of the Moon, in charge of women's work
 
 Tag: A mysterious guide who illuminate the night road for travelers
 
+
+
 "There is night light at night; although it is not as warm as the sun, it can also illuminate the road in darkness for you."
 
 
@@ -404,6 +418,8 @@ Tag: A mysterious guide who illuminate the night road for travelers
 Hula Goddess
 
 Tag: Lono's wife, symbolizing the goddess of dancing. She's beautiful, bright, and taught people to communicate with the gods through body movements.
+
+
 
 "Open the door to the soul with dance and express your feelings boldly."
 
@@ -418,6 +434,8 @@ God of Fishermen
 
 Tag: The God of Fisherman is also the god of labor, with the qualities of diligence, bravery, and enthusiasm. 
 
+
+
 "Hi! Let's see what we have earned today!"
 "Let's get some gifts from Kanaloa."
 
@@ -431,6 +449,8 @@ Goddness of Land &  Earth
 
 Tag: The goddess of the earth breeds all things and is the mother of most gods.
 
+
+
  "The earth nurtures everything and embraces everything."
 
 
@@ -442,6 +462,8 @@ Tag: The goddess of the earth breeds all things and is the mother of most gods.
 God of Sea, Travelers, and Death
 
 Tag: The protector of travelers, but also the god of death, being calm, mysterious, and uncertain at the same time
+
+
 
 "The sea is uncertain, just like my veil."
 "Don't be sentimental for parting. Isn't the end of life another journey?"
@@ -456,8 +478,12 @@ Goddess of Snow
 
 Tag: Pella's (Goddess of Volcano) enemy who particularly likes to communicate with human men
 
+
+
 "Strong feelings can burn others; sometimes only the wind and snow in cold winter  can blow away the grief."
 "Covered in snow and ice, covered in silver."
+
+
 
 ------
 

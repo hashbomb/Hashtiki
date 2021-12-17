@@ -10,7 +10,7 @@
 
 
 
-Source files (img and metadata) are stored on [IPFS](https://ipfs.io/ipfs/QmXekyvD9nWhC9JV4nrQozoz8fshTYdGFpk8cnWotueE8Y)https://ipfs.io/ipfs/QmXekyvD9nWhC9JV4nrQozoz8fshTYdGFpk8cnWotueE8Y
+Source files (img and metadata) are stored on [IPFS](https://ipfs.io/ipfs/QmXekyvD9nWhC9JV4nrQozoz8fshTYdGFpk8cnWotueE8Y)
 
 
 

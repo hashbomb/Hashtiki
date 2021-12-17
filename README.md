@@ -74,7 +74,7 @@ Generated through a random algorithm, these `8000`  unique Tikis have `7` types 
 
 
 
-![tiki](https://github.com/hashbomb/hashTiki/blob/main/example%20images/banner.png)
+![tiki](https://github.com/hashbomb/Hashtiki/blob/main/example%20images/part.jpg)
 
 
 

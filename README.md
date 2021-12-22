@@ -24,7 +24,7 @@ HashTiki represents the inheritance of a totem culture.The first NFTs library us
 
 Know more：
 
-[![Custom badge](https://img.shields.io/badge/web-hashtiki-brightgreen)](http://www.hashtiki.com)
+[![Custom badge](https://img.shields.io/badge/web-hashtiki-brightgreen)](https://www.hashtiki.com/)
 
 [![Twitter](https://img.shields.io/badge/Twitter-%40hashtiki-05b1ea)](https://twitter.com/hashtiki)
 
@@ -116,7 +116,7 @@ View **8000** Tiki: https://github.com/hashbomb/Hashtiki/blob/main/8000-Tiki.jpg
 
 - Where can we buy Tiki Assets?
 
-  OEC, visit: xxxxxxx
+  OEC
   
 
 ------
@@ -222,7 +222,7 @@ Orange > Blue > Green > Pink > Gray > Red > Colorful
 
 🗃 Get more details about "HashTiki Rarity" excel file to:
 
-https://1drv.ms/x/s!AtQPxZLcPNCYabJ0qRAtXF2g5yo?e=uNJIei
+https://1drv.ms/x/s!AtQPxZLcPNCYdLNl7KixWrrwl84?e=kHX9H2
 
 
 

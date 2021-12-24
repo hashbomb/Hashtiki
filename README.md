@@ -28,7 +28,7 @@ Know more：
 
 [![Twitter](https://img.shields.io/badge/Twitter-%40hashtiki-05b1ea)](https://twitter.com/hashtiki)
 
-[![Discord](https://img.shields.io/badge/discord-join%20chat-blue.svg)](https://discord.gg/y8RdcnwZ)
+[![Discord](https://img.shields.io/badge/discord-join%20chat-blue.svg)](https://discord.com/invite/ZJ8hYjNt32)
 
 [![License](https://img.shields.io/badge/License-MIT-critical)](LICENSE)
 

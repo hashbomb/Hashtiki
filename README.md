@@ -104,7 +104,7 @@ View **8000** Tiki: https://github.com/hashbomb/Hashtiki/blob/main/8000-Tiki.jpg
 
 - Is HashTiki open-souce?
 
-  Yes, the Hashtiki library will always be open-source to users, and anyone can access it at any time and anywhere.
+  Yes, the Hashtiki repos will always be open-source to users, and anyone can access it at any time and anywhere.
 
 
 

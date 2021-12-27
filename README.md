@@ -34,7 +34,7 @@ Know more：
 
 
 
-Generated through a random algorithm, these `8000`  unique Tikis have `7` types of features and `270` different attributes, among which 11 exceptional gods (with name) are determined based on their rare value. 
+Generated through a random algorithm, these `8000`  unique Tikis have `7` parts of features and `270` different attributes, among which 11 exceptional gods (with name) are determined based on their rare value. 
 
 
 

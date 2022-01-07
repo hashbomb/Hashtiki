@@ -505,8 +505,27 @@ We release creativity and record the Hash footprint so that people can easily an
 
  The future of asset trading is digital. We are dedicated to providing complete NFT business services for an open and decentralized metaverse ecosystem.
 
+# TikiDAO
+### Discord Community
+<img src="https://img.icons8.com/clouds/100/000000/discord-logo.png" width=10%/ > 
 
+@myTTTTT#5425
+
+@HashTribe#0329
+
+@trek#3090
+
+@hex#8080
+
+@igun#0009
+
+@y and y#6699
+
+@KAKAROT#9803
+
+@S◎S◎#0989
 
 # License
 
 The hashTiki library (i.e. all elements of the directory) is licensed under the  [MIT](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt).
+

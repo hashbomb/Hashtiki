@@ -160,7 +160,7 @@ HashTiki has seven features, including `head` `face` `tatoohead` `tatooface` `ey
 
 Example: 
 
-check out `1.jason`
+check out `1.json`
 
 
 

@@ -5,7 +5,10 @@
 ![awesome tiki](https://github.com/hashbomb/Hashtiki/blob/main/example%20images/hashtiki.gif)
 
 
-**Hello Hashtribe** 
+## Hello Hashtribe
+
+🌞 --Crypto game is eating the wolrd!
+
 ![Hashtribe](https://github.com/hashbomb/Hashtiki/blob/main/example%20images/tiki%20maps.jpg)
 
 

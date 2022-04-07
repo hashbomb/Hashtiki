@@ -5,6 +5,9 @@
 ![awesome tiki](https://github.com/hashbomb/Hashtiki/blob/main/example%20images/hashtiki.gif)
 
 
+**Hello Hashtribe** 
+![Hashtribe](https://github.com/hashbomb/Hashtiki/blob/main/example%20images/tiki%20maps.jpg)
+
 
 > A Premium NFT Collection on the SOLANA built for the Metaverse.
 

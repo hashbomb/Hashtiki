@@ -12,7 +12,7 @@
 ![Hashtribe](https://github.com/hashbomb/Hashtiki/blob/main/example%20images/tiki%20maps.jpg)
 
 
-> A Premium NFT Collection on the SOLANA built for the Metaverse.
+> A Premium NFT Collection on the POLYGON built for the Metaverse.
 
 
 

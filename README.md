@@ -116,13 +116,13 @@ View **8000** Tiki: https://github.com/hashbomb/Hashtiki/blob/main/8000-Tiki.jpg
 
 - HashTiki mint on where？
 
-  We currently mint Tikis on SOLANA.
+  Polygon network.
 
 
 
 - Where can we buy Tiki Assets?
 
-  Solsea
+  Opensea and NFTrade.
   
 
 ------

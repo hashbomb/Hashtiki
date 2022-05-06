@@ -9,7 +9,7 @@
 
 🌞 --Crypto game is eating the wolrd!
 
-![Hashtribe](https://github.com/hashbomb/Hashtiki/blob/main/example%20images/tiki%20maps.jpg)
+![Hashtribe](https://github.com/hashbomb/Hashtiki/blob/main/example%20images/hashtribe.jpg)
 
 
 > A Premium NFT Collection on the POLYGON built for the Metaverse.

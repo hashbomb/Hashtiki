@@ -20,7 +20,7 @@ Source files (metadata) are stored on [IPFS](https://ipfs.io/ipfs/QmXekyvD9nWhC9
 
 
 
-**HashTiki** is the first NFT portfolio that empowers the metaverse ecology. HashTiki consists of [8000](https://github.com/hashbomb/Hashtiki/blob/main/8000-Tiki.jpg) unique totem collections, whose ownership is stored on the SOLANA blockchain network, and it is promoted and disseminated in the way of encrypted NFT.
+**HashTiki** is the first NFT portfolio that empowers the metaverse ecology. HashTiki consists of [8000](https://github.com/hashbomb/Hashtiki/blob/main/8000-Tiki.jpg) unique totem collections, whose ownership is stored on the Polygon blockchain network, and it is promoted and disseminated in the way of encrypted NFT.
 
 
 
@@ -92,7 +92,7 @@ View **8000** Tiki: https://github.com/hashbomb/Hashtiki/blob/main/8000-Tiki.jpg
 
 - How much does a Tiki cost?
 
-  In the beginning, it costs approximately Ξ0.1 sol to create a Tiki. However, the price will constantly be rising as demand increases. 
+  In the beginning, it costs approximately Ξ5 Matic to create a Tiki. However, the price will constantly be rising as demand increases. 
 
 
 

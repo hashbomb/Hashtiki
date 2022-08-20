@@ -321,7 +321,7 @@ Each part classified by **color** :
 
 # About
 
-HASHTIKI is an NFT collection created and stored based on SOLANA. It includes three series (God, Ghost, Demon).
+HASHTIKI is an NFT collection created and stored based on POLYGON/IPFS. It includes three series (God, Ghost, Demon).
 
 
 

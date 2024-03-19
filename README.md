@@ -34,8 +34,6 @@ Know more：
 
 [![Twitter](https://img.shields.io/badge/Twitter-%40hashtiki-05b1ea)](https://twitter.com/hashtiki)
 
-[![Discord](https://img.shields.io/badge/discord-join%20chat-blue.svg)](https://discord.com/invite/ZJ8hYjNt32)
-
 [![License](https://img.shields.io/badge/License-MIT-critical)](LICENSE)
 
 
@@ -512,26 +510,6 @@ We release creativity and record the Hash footprint so that people can easily an
 ## Our Service
 
  The future of asset trading is digital. We are dedicated to providing complete NFT business services for an open and decentralized metaverse ecosystem.
-
-# TikiDAO
-### Discord Community
-<img src="https://img.icons8.com/clouds/100/000000/discord-logo.png" width=10%/ > 
-
-@myTTTTT#5425
-
-@HashTribe#0329
-
-@trek#3090
-
-@hex#8080
-
-@cryptoNFT#7263
-
-@igun#0009
-
-@y and y#6699
-
-@KAKAROT#9803
 
 @S◎S◎#0989
 

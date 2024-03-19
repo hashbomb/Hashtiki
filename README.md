@@ -1,32 +1,12 @@
-## Welcome to HashTiki 💣💣💣
-
-
+## Welcome to HashTiki MEME 💣💣💣
 
 ![awesome tiki](https://github.com/hashbomb/Hashtiki/blob/main/example%20images/hashtiki.gif)
 
-
-## Hello Hashtribe
-
-🌞 --Crypto game is eating the wolrd!
-
-![Hashtribe](https://github.com/hashbomb/Hashtiki/blob/main/example%20images/hashtribe.jpg)
-
-
-> A Premium NFT Collection on the POLYGON built for the Metaverse.
-
-
-
 Source files (metadata) are stored on [IPFS](https://ipfs.io/ipfs/QmXekyvD9nWhC9JV4nrQozoz8fshTYdGFpk8cnWotueE8Y)
-
-
 
 **HashTiki** is the first NFT portfolio that empowers the metaverse ecology. HashTiki consists of [8000](https://github.com/hashbomb/Hashtiki/blob/main/8000-Tiki.jpg) unique totem collections, whose ownership is stored on the Polygon blockchain network, and it is promoted and disseminated in the way of encrypted NFT.
 
-
-
 HashTiki represents the inheritance of a totem culture.The first NFTs library uses the Hashboom open source to empower the Metaverse ecology. 
-
-
 
 Know more：
 
